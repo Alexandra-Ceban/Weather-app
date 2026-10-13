@@ -1,0 +1,21 @@
+
+@import "tailwindcss";
+
+.bg-sunrise{
+    background: linear-gradient(to bottom right, rgb(164, 196, 48) , rgb(255, 111, 111));
+}
+
+.bg-day{
+    background: linear-gradient(to bottom right, rgb(255, 111, 111) , rgb(144, 233, 253));
+}
+
+.bg-sunset{
+    background: linear-gradient(to bottom right, rgb(144, 233, 253) , rgb(191, 201, 86));
+}
+
+.bg-night{
+    background: linear-gradient(to bottom right, rgb(191, 201, 86) , rgb(35, 99, 160));
+}
+
+
+
